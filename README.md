@@ -6,7 +6,7 @@ It will take a few lines of idea, and, using an iterate-refine loop, will turn i
 https://github.com/yudhanjaya/pseudowrite/assets/16394240/00423dce-a87b-46be-8a88-7a700fdc880c
 
 
-To use this tool, download and run Pseudowrite_public.ipynb from this repo. It should work as in Google Collab. See https://www.codecademy.com/article/how-to-use-jupyter-notebooks on how to run Jupyter notebooks.
+To use this tool, download Pseudowrite_public.ipynb from this repo. See https://www.codecademy.com/article/how-to-use-jupyter-notebooks on how to run Jupyter notebooks. Before running, modify the **openai.api_key =** value by entering your own OpenAI key (obtaining that is your business). The notebook itself should also work in Google Collab. 
 
 This tool is not, under any circumstances, to be used for any commercial purpose. Any use of this tool for commercial purposes is a copyright violation.
 By using or modifying this tool you accept these conditions.
