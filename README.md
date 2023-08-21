@@ -2,6 +2,10 @@
 Pseudowrite is a tool built as a demo for an Augsberg MFA panel that I was spoke at.
 It will take a few lines of idea, and, using an iterate-refine loop, will turn it into a coherent act structure and chapter outline.
                     
+
+https://github.com/yudhanjaya/pseudowrite/assets/16394240/00423dce-a87b-46be-8a88-7a700fdc880c
+
+
 This tool is not, under any circumstances, to be used for any commercial purpose. Any use of this tool for commercial purposes is a copyright violation.
 By using or modifying this tool you accept these conditions.
 
