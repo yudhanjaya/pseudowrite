@@ -13,7 +13,7 @@ If you are considering the use of AI in fiction, first learn the fundamentals of
 Otherwise, even if an AI model writes the Next Great Novel, you will not be able to discern good from bad.
                     Read up on the history of procedural generation, NanoGenMo, as well as generative techniques in
                     literature to understand what you're getting into.
-                    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
+
                     Also see my 2018 story "The Writing Contest," as well as subsequent work with other writers and Google Research
                     evaluating their LaMDA model for storytelling.
 
